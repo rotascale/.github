@@ -15,6 +15,6 @@ They are separate products, and each is used on its own. Both run in your enviro
 ### Open here
 
 - [agent-governance-spec](https://github.com/rotascale/agent-governance-spec): the specification behind the authority model. A vocabulary for stating what an agent may do, and for recording what was decided. Apache 2.0.
-- [rotascale-sdks](https://github.com/rotascale/rotascale-sdks): the client library for RotaGrant, in Python.
+- [rotascale-sdks](https://github.com/rotascale/rotascale-sdks): the client libraries for RotaGrant, in Python and TypeScript, and the MCP proxy. Apache 2.0.
 
 [rotascale.com](https://rotascale.com) · [Documentation](https://docs.rotascale.com) · [See it live](https://rotascale.com/demo/)
